@@ -1,0 +1,15 @@
+.RegisterconatinerTwo {
+  height: 80vh;
+  width: 30vw;
+  background-color: aqua;
+}
+
+.RegistercontainerThree {
+  height: 60vh;
+  width: 20vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin: auto;
+}

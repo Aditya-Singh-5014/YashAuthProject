@@ -1,0 +1,21 @@
+.LogincontainerTwo {
+  height: 70vh;
+  width: 50vw;
+  background-color: aqua;
+}
+
+.LogincontainerThree {
+  height: 50vh;
+  width: 50vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.arrow {
+  height: 40px;
+  width: 40px;
+  margin: 20px 0 0 20px;
+  cursor: pointer;
+}
